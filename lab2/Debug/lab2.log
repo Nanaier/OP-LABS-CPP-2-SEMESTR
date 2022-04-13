@@ -1,0 +1,10 @@
+﻿  lab2.cpp
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab2\myLib.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  myLib.cpp
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab2\myLib.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab2\myLib.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab2\myLib.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab2\myLib.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab2\myLib.cpp(172,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  lab2.vcxproj -> C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\Debug\lab2.exe
