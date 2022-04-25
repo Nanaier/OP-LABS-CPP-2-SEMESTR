@@ -1,0 +1,13 @@
+﻿  lib.cpp
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.cpp(79,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.cpp(104,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.cpp(119,23): warning C4018: '<': signed/unsigned mismatch
+  lab3.vcxproj -> C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\Debug\lab3.exe
