@@ -29,4 +29,4 @@ public:
 };
 vector <string> split(string, char );
 bool ifValid(double , double , double );
-double max_area(double, double , double, string& );
+double max_area(double, double , double, vector <string>&);

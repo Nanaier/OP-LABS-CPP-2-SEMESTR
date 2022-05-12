@@ -56,25 +56,25 @@ Triangle Triangle::operator-= (double n) {
 	return *this;
 }
 bool ifValid(double ver_1, double ver_2, double ver_3) {
-	if (((ver_1 + ver_2) <= ver_3) || ((ver_2 + ver_3) <= ver_1) || ((ver_1 + ver_3) <= ver_2))
+	if (((ver_1 + ver_2) <= ver_3) || ((ver_2 + ver_3) <= ver_1) || ((ver_1 + ver_3) <= ver_2) || (ver_1<=0) || (ver_2 <= 0)|| (ver_3 <= 0))
 		return 0;
 	else
 		return 1;
 }
-double max_area(double area_1, double area_2, double area_3, string& pos) {
+double max_area(double area_1, double area_2, double area_3, vector <string>& pos) {
 	double max;
 	if ((area_1 >= area_2) && (area_1 >= area_3)) {
 		max = area_1;
-		pos = "T1";
+		pos.push_back("T1");
 	}
 
-	else if ((area_2 >= area_1) && (area_2 >= area_3)) {
+	if ((area_2 >= area_1) && (area_2 >= area_3)) {
 		max = area_2;
-		pos = "T2";
+		pos.push_back("T2");
 	}
-	else {
+	if ((area_3 >= area_1) && (area_3 >= area_2)) {
 		max = area_3;
-		pos = "T3";
+		pos.push_back("T3");
 	}
 	return max;
 }

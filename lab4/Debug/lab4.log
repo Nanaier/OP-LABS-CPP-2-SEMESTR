@@ -1,2 +1,5 @@
 ﻿  lab4.cpp
+  lib.cpp
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab4\lib.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   lab4.vcxproj -> C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\Debug\lab4.exe
