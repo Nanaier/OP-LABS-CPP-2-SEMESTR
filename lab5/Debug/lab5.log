@@ -1,0 +1,14 @@
+﻿  lib.cpp
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(96,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(99,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(107,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(110,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(119,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(125,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(134,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(141,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(148,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(153,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(164,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab5\lib.cpp(174,23): warning C4018: '<': signed/unsigned mismatch
+  lab5.vcxproj -> C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\Debug\lab5.exe
