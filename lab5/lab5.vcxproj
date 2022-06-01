@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="lab5.cpp" />
-    <ClCompile Include="lib.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Work_with_numbers.cpp" />
+    <ClCompile Include="TIntNumbers.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="lib.h" />
+    <ClInclude Include="TIntNumbers.h" />
+    <ClInclude Include="Work_with_numbers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

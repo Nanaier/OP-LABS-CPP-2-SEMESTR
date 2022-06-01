@@ -1,4 +1,5 @@
-﻿#include "lib.h"
+﻿#include "TIntNumbers.h"
+#include "Work_with_numbers.h"
 
 int main()
 {
@@ -7,14 +8,14 @@ int main()
 	cout << "Enter the amount of binary numbers m: ";
 	input(m, down, up);
 
-	TIntNumber2* BinaryArr = GenarateRandomBinNumbers(m, up, down);
+	TIntNumber* BinaryArr = GenarateRandomBinNumbers(m, up, down);
 	cout << endl << "Randomly generated binary numbers:" <<  endl;
 	PrintArray(BinaryArr, m);
 
 	cout << "Enter the amount of hex numbers n: "; 
 	input(n, down, up);
 
-	TIntNumber16* HexArr = GenarateRandomHexNumbers(n, up, down);
+	TIntNumber* HexArr = GenarateRandomHexNumbers(n, up, down);
 	cout << endl << "Randomly generated hex numbers:" << endl;
 	PrintArray(HexArr, n);
 
