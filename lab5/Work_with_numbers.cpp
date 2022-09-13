@@ -31,9 +31,9 @@ void input(int& size, int& down, int& up) {
 	}
 }
 
-TIntNumber* GenarateRandomBinNumbers(int m, int up, int down) {
+TIntNumber* GenerateRandomBinNumbers(int m, int up, int down) {
 	srand(time(NULL));
-	TIntNumber2* array = new TIntNumber2[m];
+	TIntNumber* array = new TIntNumber2[m];
 	TIntNumber2 object;
 	for (size_t i = 0; i < m; i++)
 	{
@@ -42,9 +42,10 @@ TIntNumber* GenarateRandomBinNumbers(int m, int up, int down) {
 	}
 	return array;
 }
-TIntNumber* GenarateRandomHexNumbers(int n, int up, int down) {
+
+TIntNumber* GenerateRandomHexNumbers(int n, int up, int down) {
 	srand(time(NULL));
-	TIntNumber16* array = new TIntNumber16[n];
+	TIntNumber* array = new TIntNumber16[n];
 	TIntNumber16 object;
 	for (size_t i = 0; i < n; i++)
 	{

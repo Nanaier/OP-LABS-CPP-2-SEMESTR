@@ -1,0 +1,10 @@
+﻿  functions.cpp
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab6\tree.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab6\tree.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab6\tree.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab6\tree.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab6\functions.cpp(7,7): warning C4101: 'mode': unreferenced local variable
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab6\functions.cpp(65,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab6\functions.cpp(113,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab6\functions.cpp(146,21): warning C4018: '<': signed/unsigned mismatch
+  lab6.vcxproj -> C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\Debug\lab6.exe

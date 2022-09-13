@@ -1,0 +1,7 @@
+int counter = 0;
+cout << "Counter is:" << counter << endl;
+
+for (int k = 0, k < 20, k ++) {
+counter += 5;
+}
+cout << k << counter << endl;

@@ -1,4 +1,9 @@
-﻿  lib.cpp
+﻿  lab3.cpp
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lab3.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  lib.cpp
 C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
@@ -10,4 +15,5 @@ C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\l
 C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.cpp(104,23): warning C4018: '<': signed/unsigned mismatch
 C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
 C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\lab3\lib.cpp(119,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   lab3.vcxproj -> C:\Users\Пользователь\source\repos\OP-LABS-CPP-2-SEMESTR\OP_labs_2\Debug\lab3.exe

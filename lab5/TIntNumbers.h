@@ -16,27 +16,24 @@ public:
 	int TIntNumberToDecimal();
 
 	void print();
-
 };
 class TIntNumber2 :public TIntNumber {
 public:
-	TIntNumber2() { this->number = ""; this->base = 2; };
-	TIntNumber2(string num);
-	string DecToBin(int num);
+	TIntNumber2();
+	TIntNumber2(string);
+	string DecToBin(int);
 	void operator++() override;
 	void operator--() override;
-
 
 };
 
 class TIntNumber16 :public TIntNumber {
 public:
-	TIntNumber16() { this->number = ""; this->base = 16; };
-	TIntNumber16(string num);
-	string DecToHex(int num);
+	TIntNumber16();
+	TIntNumber16(string);
+	string DecToHex(int);
 	void operator--() override;
 	void operator++() override;
-
 
 };
 

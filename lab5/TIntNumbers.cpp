@@ -3,7 +3,14 @@
 void TIntNumber::print() {
 	cout << this->number << "  ";
 }
-
+TIntNumber2::TIntNumber2() {
+	this->number = "";
+	this->base = 2;
+}
+TIntNumber16::TIntNumber16(){
+	this->number = ""; 
+	this->base = 16;
+}
 string TIntNumber16::DecToHex(int num)
 {
 	string str;

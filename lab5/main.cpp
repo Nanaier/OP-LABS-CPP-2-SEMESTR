@@ -8,14 +8,14 @@ int main()
 	cout << "Enter the amount of binary numbers m: ";
 	input(m, down, up);
 
-	TIntNumber* BinaryArr = GenarateRandomBinNumbers(m, up, down);
+	TIntNumber* BinaryArr = GenerateRandomBinNumbers(m, up, down);
 	cout << endl << "Randomly generated binary numbers:" <<  endl;
 	PrintArray(BinaryArr, m);
 
 	cout << "Enter the amount of hex numbers n: "; 
 	input(n, down, up);
 
-	TIntNumber* HexArr = GenarateRandomHexNumbers(n, up, down);
+	TIntNumber* HexArr = GenerateRandomHexNumbers(n, up, down);
 	cout << endl << "Randomly generated hex numbers:" << endl;
 	PrintArray(HexArr, n);
 

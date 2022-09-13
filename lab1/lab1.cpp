@@ -4,7 +4,7 @@ int main()
 {
 	string name = nameOfFile();
 	input(name);
-	cout << "Entered text:\n" << endl;
+	cout << "Text in file:\n" << endl;
 	output(name);
 	string newname = nameOfFile();
 	changeFile(name, newname);
